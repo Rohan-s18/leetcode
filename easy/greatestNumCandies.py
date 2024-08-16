@@ -1,6 +1,6 @@
 """
 author: rohan singh
-solution for the Greatest Number of Candies Problem defined in greatestNumCandies.md
+solution for the Greatest Number of Candies Problem defined in greatestNumCandies.md 
 """
 
 
