@@ -17,7 +17,7 @@ class Solution:
 
         for i in range(1, len(str2)+1, 1):
 
-            if self.isDivisor(str1, str2[0:i]):
+            if self.isDivisor(str1, str2[0:i]) and self.isDivisor(str2, str2[0:i]):
                 gcd = str2[0:i]
 
 
